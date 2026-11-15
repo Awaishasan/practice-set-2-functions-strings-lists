@@ -1,10 +1,10 @@
 # Practice Set 2: Functions, Strings & Lists
 
-Assignment 59 — TechDestination / PSEB Bootcamp. Two Python programs built with functions, string methods and lists.
+Assignment 59 TechDestination / PSEB Bootcamp. Two Python programs built with functions, string methods and lists.
 
 ## Features
 
-### Task 1 — Student Result Card Generator (`student_result_card.py`)
+### Task 1  Student Result Card Generator (`student_result_card.py`)
 
 - Takes a student's name, roll number and marks in 5 subjects.
 - Validates marks (0–100) and roll number (digits only).
@@ -13,7 +13,7 @@ Assignment 59 — TechDestination / PSEB Bootcamp. Two Python programs built wit
 - Result is **Fail** if any subject is below 40, even with a high total.
 - Prints a formatted result card.
 
-### Task 2 — Shopping Bill Calculator (`shopping_bill_calculator.py`)
+### Task 2 Shopping Bill Calculator (`shopping_bill_calculator.py`)
 
 - Takes at least 3 items with price and quantity, stored in lists.
 - Calculates the subtotal from items, prices and quantities.
@@ -77,4 +77,4 @@ Both programs were tested against the brief's example outputs, which reproduce e
 
 ## Technologies
 
-- Python 3 — functions, string methods (`strip`, `title`, `isdigit`), lists and formatted output.
+- Python 3 functions, string methods (`strip`, `title`, `isdigit`), lists and formatted output.
